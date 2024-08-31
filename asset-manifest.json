@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mySMG-Portfolio-Web-1/static/css/main.ef6e2e9c.css",
+    "main.js": "/mySMG-Portfolio-Web-1/static/js/main.c3960296.js",
+    "static/media/bannerVideo.mp4": "/mySMG-Portfolio-Web-1/static/media/bannerVideo.514a6e46530684021174.mp4",
+    "static/media/Kota Lama 3.jpeg": "/mySMG-Portfolio-Web-1/static/media/Kota Lama 3.dee7f5e857a49f1510c6.jpeg",
+    "static/media/kota lama 2.jpeg": "/mySMG-Portfolio-Web-1/static/media/kota lama 2.873d8490c89bb4969f1e.jpeg",
+    "static/media/Sam Poo Kong.jpeg": "/mySMG-Portfolio-Web-1/static/media/Sam Poo Kong.40b4bed5b1b154fb237f.jpeg",
+    "static/media/Lawang Sewu4.jpeg": "/mySMG-Portfolio-Web-1/static/media/Lawang Sewu4.97aa1a3544df73b9f04a.jpeg",
+    "static/media/Lawang Sewu1.jpeg": "/mySMG-Portfolio-Web-1/static/media/Lawang Sewu1.922fc378b23302cc5d39.jpeg",
+    "static/media/Masjid Agung Jawa Tengah.jpeg": "/mySMG-Portfolio-Web-1/static/media/Masjid Agung Jawa Tengah.b8745247537c9e41b275.jpeg",
+    "static/media/Brown Canyon.jpeg": "/mySMG-Portfolio-Web-1/static/media/Brown Canyon.1f184fe91b2eae91ac8d.jpeg",
+    "index.html": "/mySMG-Portfolio-Web-1/index.html",
+    "main.ef6e2e9c.css.map": "/mySMG-Portfolio-Web-1/static/css/main.ef6e2e9c.css.map",
+    "main.c3960296.js.map": "/mySMG-Portfolio-Web-1/static/js/main.c3960296.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef6e2e9c.css",
+    "static/js/main.c3960296.js"
+  ]
+}
